@@ -1,8 +1,8 @@
 # feko
 
-# dipole
-# l = 0.059
-# fmin = 2e9
+ dipole
+ l = 0.059
+ fmin = 2e9
 # fmax = 3e9
 # wr = 1.5e-3
 
